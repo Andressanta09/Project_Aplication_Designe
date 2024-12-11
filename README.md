@@ -1,5 +1,5 @@
 ## Real Time Traffic Analaysis
-Project Bhavik Application Design for Big Data This project focuses on analyzing real-time traffic data to assist emergency vehicles and other priority traffic. Unlike Google Maps, which serves the general commuting public, this system is designed specifically to offer enhanced support for time-sensitive routes and incident response.
+Project Bhavik Application Design for Big Data This project focuses on analyzing real-time traffic data to assist emergency vehicles and other priority traffic. Unlike Google Maps, which serves the general commuting public, this system is designed specifically to offer enhanced support for time-sensitive routes and incidents response by utilizing advanced data integration, predictive analytics, and optimized routing mechanisms. These features aim to minimize delays, prioritize critical traffic flows, and improve the overall efficiency of emergency and public transport systems.
 
 Team Lead: Andres
 
